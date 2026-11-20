@@ -32,6 +32,6 @@ The form sends these fields: `address`, `name`, `phone`, `email`, `timeline`, `l
 Until the address is pasted in, the form shows "We could not send your request. Please call now" so no lead is silently lost.
 
 ## Before launch
-- Confirm the phone number (954) 703-9360 is the one to publish.
+- Confirm the phone number (954) 335-7144 is the one to publish.
 - Have the privacy policy reviewed.
 - Sections held back until there is real content: market stats, client review quotes, more recent sales, Jay's own words, commission FAQ.
